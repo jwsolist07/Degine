@@ -1,0 +1,14 @@
+{
+  "name": "degine",
+  "owner": { "name": "jwsolist07" },
+  "metadata": { "description": "Degine 디자인 플러그인 모음" },
+  "plugins": [
+    {
+      "name": "degine-designer",
+      "source": "./plugins/degine-designer",
+      "description": "어떤 프로젝트에서든 전문 디자이너처럼 UI/브랜드/디자인 시스템 작업을 수행하는 스킬과 에이전트",
+      "version": "1.0.0",
+      "category": "design"
+    }
+  ]
+}
